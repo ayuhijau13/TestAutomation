@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_10 Selenium Coding Practice Exercises</name>
+   <tag></tag>
+   <elementGuidId>66f43f97-0d23-401d-a1a6-50267709e3a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PageList2']/div/div/div/div/ul/li[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>786b76ef-e381-4ffe-bdcc-a374ddc814ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/p/selenium-assignments.html</value>
+      <webElementGuid>9db9ff0f-c7cf-4b7f-9712-a0bb2f48ba95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10+ Selenium Coding Practice Exercises</value>
+      <webElementGuid>b2a8fe0c-2d87-484b-8c2b-04c884e83f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content&quot;]/a[1]</value>
+      <webElementGuid>fce3b674-3dfe-4de5-9bf1-3d2dbf0ee4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b82da25c-fbd7-44e3-82aa-a44b8dba3225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/p/selenium-assignments.html</value>
+      <webElementGuid>773c5133-2504-4011-b3d0-44404ce74852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10+ Selenium Coding Practice Exercises</value>
+      <webElementGuid>df3a40b1-2827-49d5-b009-98502cc7b38b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content&quot;]/a[1]</value>
+      <webElementGuid>a4ff5088-4d09-476e-b079-7ad76fa443f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b525dca-377a-42a1-a033-09098a0020e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/p/selenium-assignments.html</value>
+      <webElementGuid>a5e73577-c16f-4016-84e1-7c49762adba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10+ Selenium Coding Practice Exercises</value>
+      <webElementGuid>32e72208-5da8-4145-ae01-3cfb5dd4931a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content&quot;]/a[1]</value>
+      <webElementGuid>b0635701-dbb4-47fc-ab66-255cf805edc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PageList2']/div/div/div/div/ul/li[3]/div/div/a</value>
+      <webElementGuid>8dcf78a3-f907-47ef-8543-d3331bcb5a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'10+ Selenium Coding Practice Exercises')])[2]</value>
+      <webElementGuid>d7a34876-78c9-40a9-b404-f846faca19cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice'])[1]/following::a[1]</value>
+      <webElementGuid>3090fd7b-d54c-46d7-a899-caa76c867afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Blogs'])[1]/following::a[2]</value>
+      <webElementGuid>93324acb-f9a0-4db3-b820-facb3e400335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::a[2]</value>
+      <webElementGuid>22f30d05-83ce-4697-b50d-4d7027a6fc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REST API Testing Tutorial with Postman'])[1]/preceding::a[3]</value>
+      <webElementGuid>9a98ab2b-8353-42a3-9c6e-c8fe96a7bf81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.techlistic.com/p/selenium-assignments.html')])[3]</value>
+      <webElementGuid>95e5210a-4d4d-41ee-a1ad-14ee074e9af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/a</value>
+      <webElementGuid>874d64a8-bcc9-4e86-ac57-12338cf83f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.techlistic.com/p/selenium-assignments.html' and (text() = '10+ Selenium Coding Practice Exercises' or . = '10+ Selenium Coding Practice Exercises')]</value>
+      <webElementGuid>a6c9112f-5faa-4486-9232-c4c7d6bb84e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

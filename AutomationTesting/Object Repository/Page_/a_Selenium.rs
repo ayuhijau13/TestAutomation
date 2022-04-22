@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Selenium</name>
+   <tag></tag>
+   <elementGuidId>6032e218-19f8-4817-9505-542ec46639e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropbtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PageList2']/div/div/div/div/ul/li[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ecf03e51-f505-432c-97f3-433dba59e4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropbtn</value>
+      <webElementGuid>d2cb9aee-a306-4b85-b7e0-dabd32d06feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/p/selenium-tutorials.html</value>
+      <webElementGuid>b2d79b1b-3c1e-45e1-82a0-b2d880820c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium
+         							
+</value>
+      <webElementGuid>dd807132-d42e-412e-b3da-09d36de7c080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropbtn&quot;]</value>
+      <webElementGuid>8942fb9e-0621-461b-8d26-fe97a57fa4d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PageList2']/div/div/div/div/ul/li[2]/div/a</value>
+      <webElementGuid>e69e01cb-178b-4e05-a412-40048fc224b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selenium')]</value>
+      <webElementGuid>16b71df6-3aaa-43df-9b98-d84e2a29a02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[1]/following::a[1]</value>
+      <webElementGuid>d0746663-1bc4-47ac-8a70-4f66d673de1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TechListic'])[1]/following::a[2]</value>
+      <webElementGuid>a3fe9ae9-df73-4650-8a10-867f68f34f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium IDE Tutorial'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef083d0e-4344-4366-be3c-abda278946d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium with Java'])[1]/preceding::a[2]</value>
+      <webElementGuid>1fa2641f-aa43-4c27-87e3-d5dfd399bafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selenium']/parent::*</value>
+      <webElementGuid>62e7dcea-1d26-4b56-a68f-e35d47525313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.techlistic.com/p/selenium-tutorials.html')]</value>
+      <webElementGuid>200f2748-f332-4d26-abcc-c7b8d0386169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>6727eecd-d09b-419f-b2e2-b8c3d87aea2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.techlistic.com/p/selenium-tutorials.html' and (text() = 'Selenium
+         							
+' or . = 'Selenium
+         							
+')]</value>
+      <webElementGuid>55e00570-b276-4732-82b5-121b8cdd38ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

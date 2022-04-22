@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BDD</name>
+   <tag></tag>
+   <elementGuidId>9ba774b0-7b9a-4254-8b44-f77cd4a077fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PageList2']/div/div/div/div/ul/li[7]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5e009aec-54af-48e7-86c9-f7d0ff336215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropbtn</value>
+      <webElementGuid>6a360a12-3783-4206-9f2d-d70d70543b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/p/bdd-tutorial-with-python-behave.html</value>
+      <webElementGuid>dc8c6dbb-5fad-4982-9d1f-d8e161a0a83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BDD
+							  
+</value>
+      <webElementGuid>a458beb3-7352-4dbc-8e0f-456265ca6cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropbtn&quot;]</value>
+      <webElementGuid>035c3d20-4d95-463e-97bd-010a3eec9e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PageList2']/div/div/div/div/ul/li[7]/div/a</value>
+      <webElementGuid>58029489-7b33-4fbe-b100-b8a6b25d2239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BDD')]</value>
+      <webElementGuid>eb279826-d52a-45bf-812c-d2806dc61034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Testing with Apache Jmeter'])[1]/following::a[1]</value>
+      <webElementGuid>8a7bff9b-80cc-44fe-94c4-1ad465263b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JMeter'])[1]/following::a[2]</value>
+      <webElementGuid>8413a92e-a7e1-46f5-ba56-d3753b9fcf5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BDD Tutorial with Python (Behave)'])[1]/preceding::a[1]</value>
+      <webElementGuid>edd46f65-0b43-4b38-bf39-0006e381d77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[1]/preceding::a[2]</value>
+      <webElementGuid>85c9d71f-9a07-41b3-a06c-31b79ecdc8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BDD']/parent::*</value>
+      <webElementGuid>507065fd-ab8f-444a-9e3a-52a15a2bca98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.techlistic.com/p/bdd-tutorial-with-python-behave.html')]</value>
+      <webElementGuid>a727666e-418f-42fc-b135-069c9499ab87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/a</value>
+      <webElementGuid>1e9af27d-eded-4587-b2d9-f6febd494a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.techlistic.com/p/bdd-tutorial-with-python-behave.html' and (text() = 'BDD
+							  
+' or . = 'BDD
+							  
+')]</value>
+      <webElementGuid>9daee4fe-d275-41ea-89de-96149f7eea84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

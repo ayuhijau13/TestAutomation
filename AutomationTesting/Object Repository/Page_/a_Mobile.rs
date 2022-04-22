@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mobile</name>
+   <tag></tag>
+   <elementGuidId>d97d2150-4d63-4b73-99dc-8c3696628c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PageList2']/div/div/div/div/ul/li[8]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1614f862-c92a-49e9-8e24-c1300a2e8e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropbtn</value>
+      <webElementGuid>53cac83d-10cf-4ea3-b9a5-d31cf3f247e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/search/label/Mobile%20Appium</value>
+      <webElementGuid>6d082fdf-a1d6-4e35-96c7-782b81b442e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile
+								
+</value>
+      <webElementGuid>aba61549-9ee6-47c5-84d0-462875a72282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageList2&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;overflowable-container overflowable-3&quot;]/div[@class=&quot;overflowable-contents&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;overflowable-item&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropbtn&quot;]</value>
+      <webElementGuid>4644aa4e-8bf7-44b9-b59b-29158f6e9ecc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PageList2']/div/div/div/div/ul/li[8]/div/a</value>
+      <webElementGuid>629a76ed-abcc-4018-9745-20b170c9da87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mobile')]</value>
+      <webElementGuid>ea663c9d-fb6b-4a90-a836-75728dc33020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BDD Tutorial with Python (Behave)'])[1]/following::a[1]</value>
+      <webElementGuid>aca39a10-1919-4951-94c7-ce8668b6347e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BDD'])[1]/following::a[2]</value>
+      <webElementGuid>d9941bcc-c73a-44b6-a9c8-7f2d90a4b6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile App Testing with Emulator'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff405c1f-58cd-4276-8c34-de6ef51dab1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Mobile App Testing Automation Tools'])[1]/preceding::a[2]</value>
+      <webElementGuid>5ee9ef2f-da30-4834-bcd2-df28c14c6fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile']/parent::*</value>
+      <webElementGuid>2983a3cd-0933-4918-bd01-9b36ff545cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.techlistic.com/search/label/Mobile%20Appium')]</value>
+      <webElementGuid>9275e124-69a8-49ba-b4db-9b34a01e119f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/div/a</value>
+      <webElementGuid>222f41dc-1cfe-418e-b8bb-f65283f797c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.techlistic.com/search/label/Mobile%20Appium' and (text() = 'Mobile
+								
+' or . = 'Mobile
+								
+')]</value>
+      <webElementGuid>8ad10d6e-60a2-4332-a9bc-444b119b6fb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Watch on_ytp-volume-slider-handle</name>
+   <tag></tag>
+   <elementGuidId>4383dc07-86c1-42a4-a8c9-2cd537148479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ytp-volume-slider-handle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[25]/div[2]/div/span/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2c584f8-1b3d-4d7a-84b3-7e8ce719924c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-volume-slider-handle</value>
+      <webElementGuid>2b2dfa3a-b9cc-43e7-9753-0520668522da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-chrome-bottom ytp-volume-slider-active&quot;]/div[@class=&quot;ytp-chrome-controls&quot;]/div[@class=&quot;ytp-left-controls&quot;]/span[@class=&quot;ytp-volume-area&quot;]/div[@class=&quot;ytp-volume-panel ytp-volume-control-hover&quot;]/div[@class=&quot;ytp-volume-slider&quot;]/div[@class=&quot;ytp-volume-slider-handle&quot;]</value>
+      <webElementGuid>ab0fd5ec-1eb4-4a5f-8fd3-d147b885dfe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_/iframe_Selenium Video Tutorials Playlist (__cfdd52</value>
+      <webElementGuid>0f91dba1-baf7-422c-b8a5-f163bbd91cb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[25]/div[2]/div/span/div/div/div</value>
+      <webElementGuid>1302fa58-1d8a-4e13-9f16-c29001474d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div</value>
+      <webElementGuid>643996c9-41d5-4aca-b367-1f7b024e9fc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

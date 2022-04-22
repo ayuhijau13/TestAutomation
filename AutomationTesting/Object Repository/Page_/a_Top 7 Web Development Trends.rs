@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Top 7 Web Development Trends</name>
+   <tag></tag>
+   <elementGuidId>a9aaf206-2cfb-4921-bc72-43c43725d090</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.recent_blogs > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[3]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05559f51-c1b5-48d9-8e8a-bc439e4e77b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.techlistic.com/2021/10/top-7-web-development-trends.html</value>
+      <webElementGuid>b6dfd1bf-07b9-4bbf-a406-127079aa7c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top 7 Web Development Trends</value>
+      <webElementGuid>6704ce8e-bb06-487a-86ad-6a30dc0f2cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HTML7&quot;)/div[@class=&quot;widget-content&quot;]/div[@class=&quot;recent_blogs&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>7a5cec9c-82f8-4f45-a7ac-61dab546ca3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HTML7']/div/div/ul/li/a</value>
+      <webElementGuid>ba10d2d9-9ad9-4063-aeaa-b95eb8ed12bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Top 7 Web Development Trends')]</value>
+      <webElementGuid>b75ec7f4-ff99-4062-8033-1763469745c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Blogs'])[1]/following::a[1]</value>
+      <webElementGuid>dd3d9b03-14ce-4328-ac66-808877af97fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacking'])[2]/following::a[1]</value>
+      <webElementGuid>04de4303-b41f-46e2-aa7a-2f46d1f7f33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How I learned Selenium in 4 weeks'])[1]/preceding::a[1]</value>
+      <webElementGuid>727108c4-1690-447f-ad48-5f883d7f14f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Complete Guide to API Development'])[3]/preceding::a[2]</value>
+      <webElementGuid>5d95ee3c-f80a-4fe7-afd2-6afaac5dd1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top 7 Web Development Trends']/parent::*</value>
+      <webElementGuid>2b84915b-e7d3-49d8-bdbc-74c0cffbf82d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.techlistic.com/2021/10/top-7-web-development-trends.html')]</value>
+      <webElementGuid>3dd908bb-1040-4020-a588-b13b17ad5af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li/a</value>
+      <webElementGuid>f6b1d3a5-9cde-412b-b7d8-769f34ef6a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.techlistic.com/2021/10/top-7-web-development-trends.html' and (text() = 'Top 7 Web Development Trends' or . = 'Top 7 Web Development Trends')]</value>
+      <webElementGuid>07090bba-5212-4d16-b7b6-3e35d85eec16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
